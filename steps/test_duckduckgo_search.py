@@ -9,6 +9,7 @@ DUCKDUCKGO_HOME = 'https://duckduckgo.com/'
 
 # Scenarios
 scenarios('C:\\Python\\my_code\\automation\\projects\\bdd_python_auto_testing\\features\\')
+# scenarios('/Users/mediasoft/automotion/repository_pytest_bdd_python/features/web.feature')
 
 
 # Fixtures
