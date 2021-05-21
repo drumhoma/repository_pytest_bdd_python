@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 DUCKDUCKGO_HOME = 'https://duckduckgo.com/'
 
 # Scenarios
-scenarios('C:\Python\my_code\\automation\projects\\bdd_python_auto_testing\\features')
+scenarios('C:\\Python\\my_code\\automation\\projects\\bdd_python_auto_testing\\features\\')
 
 
 # Fixtures
